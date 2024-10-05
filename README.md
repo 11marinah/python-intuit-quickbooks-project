@@ -3,4 +3,5 @@
 ## Installation
 run python install -r requirements,txt
 
-![user-profile-icon-free-vector](https://github.com/user-attachments/assets/39ce39cf-aea4-41d5-bba1-64172b878d69)
+![Screenshot 2024-10-05 152428](https://github.com/user-attachments/assets/b017db85-b816-4197-bd08-5537ef75d952)
+
